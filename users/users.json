@@ -1,0 +1,95 @@
+{
+    "recordsTotal": 17,
+    "data": [
+        {
+            "user_id": "user_1",
+            "user_name": "Marie",
+            "user_custom": "wario",
+            "email": "j.smith@gmail.com",
+            "register_date": "2016-02-04T08:42:24+00:00",
+            "balance": 152,
+            "enabled": true
+        },
+        {
+            "user_id": "user_13",
+            "user_name": "Alexandro",
+            "user_custom": null,
+            "email": null,
+            "register_date": "2016-02-07T09:14:10+00:00",
+            "balance": 20,
+            "enabled": true
+        },
+        {
+            "user_id": "user_2",
+            "user_name": "Mike Carter",
+            "user_custom": "Joe",
+            "email": "m.carter@gmail.com",
+            "register_date": "2016-02-04T08:43:20+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_2085220481",
+            "user_name": "Katrin",
+            "user_custom": null,
+            "email": null,
+            "register_date": "2016-02-07T13:11:49+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_24",
+            "user_name": "Kelly",
+            "user_custom": "Nolan",
+            "email": null,
+            "register_date": "2016-02-07T11:52:47+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_39",
+            "user_name": "Antonio",
+            "user_custom": null,
+            "email": "anto@n.io",
+            "register_date": "2016-02-07T12:57:00+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_49",
+            "user_name": "Katie",
+            "user_custom": "Paladin",
+            "email": "katie@mail.ru",
+            "register_date": "2016-02-07T12:33:01+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_5",
+            "user_name": "Leroy",
+            "user_custom": null,
+            "email": null,
+            "register_date": "2016-02-07T12:32:09+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_52",
+            "user_name": "Tomas",
+            "user_custom": null,
+            "email": null,
+            "register_date": "2016-02-07T12:23:53+00:00",
+            "balance": 0,
+            "enabled": true
+        },
+        {
+            "user_id": "user_59",
+            "user_name": "Carla",
+            "user_custom": null,
+            "email": null,
+            "register_date": "2016-02-07T09:09:04+00:00",
+            "balance": 108,
+            "enabled": true
+        }
+    ]
+}
